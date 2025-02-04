@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577762369647",
+    "firebase_url": "https://aryogyadirect-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aryogyadirect",
+    "storage_bucket": "aryogyadirect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577762369647:android:14d1e80c102eb49d592d9a",
+        "android_client_info": {
+          "package_name": "com.example.arogya_direct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577762369647-45arbevc8ppb73a2s6g1fsnrroidv5d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl-JWl8WpmE7HtG0LzAutVBZn6FzBFQ1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577762369647-45arbevc8ppb73a2s6g1fsnrroidv5d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
