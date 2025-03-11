@@ -1,8 +1,5 @@
-<h1 align="center"> FenceMate-IoT Geofencing App</h1>
+<h1 align="center">ArogyaTrack-IoT Geofencing App</h1>
 
-<p align="center">
-  <img src="https://your-image-url.com" alt="App Demo" width="600">
-</p>
 
 <p align="center">
   An IoT geofencing application built with Flutter and Firebase, providing real-time location-based alerts and actions.
